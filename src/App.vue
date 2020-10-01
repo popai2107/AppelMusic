@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Vue logo" src="https://pbs.twimg.com/profile_images/1278333357261111296/gFA-LyyE_400x400.jpg">
     <!--<HelloWorld msg="Welcome to Your Vue.js App"/>-->
     <itunes/>
   </div>
